@@ -9,9 +9,9 @@
 
 const int N=128;
 
-typedef int	coef_t;
+typedef int coef_t;
 typedef int	data_t;
-typedef int	acc_t;
+typedef int acc_t;
 
 void fir (
   data_t *y,
